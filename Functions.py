@@ -38,16 +38,46 @@ passing_math_percent(passing_math_count, total_student_count)
 
 # %%
 # A basic function that squares a number.
-1 def sqr(x):
-2    return x**2
-3
-4 sqr(2)
+def sqr(x):
+    return x**2
+sqr(2)
 
 # %%
 # Example of the map function.
-1 numbers = [1, 2, 3, 4, 5]
-2
-3 def sqr(x):
-4    return x**2
-5
-6 list(map(sqr, numbers))
+numbers = [1, 2, 3, 4, 5]
+
+def sqr(x):
+    return x**2
+list(map(sqr, numbers))
+
+# %%
+# A for loop that squares a number.
+numbers = [1, 2, 3, 4, 5]
+numbers_sqr = []
+
+for number in numbers:
+    numbers_sqr.append(number**2)
+
+print(numbers_sqr)
+
+# %%
+# Using the format() function.
+my_grades = [92.34, 84.56, 86.78, 98.32]
+
+for grade in my_grades:
+    print("{:.0f}".format(grade))
+
+# %%
+# Format the "Total Students" to have the comma for a thousands separator.
+district_summary_df["Total Students"] = district_summary_df["Total Students"].map("{:,}".format)
+
+district_summary_df["Total Students"]
+
+# %%
+# Format "Total Budget" to have the comma for a thousands separator, a decimal separator, and a "$".
+
+district_summary_df["Total Budget"] = district_summary_df["Total Budget"].map("${:,.2f}".format)
+
+district_summary_df["Total Budget"]
+
+# %%

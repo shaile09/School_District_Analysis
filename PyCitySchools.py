@@ -628,6 +628,6 @@ size_summary_df["% Passing Reading"] = size_summary_df["% Passing Reading"].map(
 
 size_summary_df["% Overall Passing"] = size_summary_df["% Overall Passing"].map("{:.0f}".format)
 
-size_summary_df
+size_summary_df 
 
 # %%
