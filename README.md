@@ -14,13 +14,10 @@ In the district summary, see that the average math score decreased by 0.1 while 
  
 Out of the 15 schools that were part of this analysis, 39, 170 students and the budget was $24,649,428, below was the breakdown:
 
-Total Schools: 15
-Total Students: 39170
-Average Math Score: 79.0
-Average Reading Score: 81.9
-% Passing Math: 75 %
-% Passing Reading: 86 %
-% Overall Passing: 80%
+
+|   | Total Schools | Total Students | Total Budget   | Average Math Score | Average Reading Score | % Passing Math | % Passing Reading | % Overall Passing |
+|---|---------------|----------------|----------------|--------------------|-----------------------|----------------|-------------------|-------------------|
+| 0 | 15            | 39,170         | $24,649,428.00 | 79.0               | 81.9                  | 75             | 86                | 80                |
 
 As part of this challenge, we removed the reading and math scores of ninth graders in Thomas High School. Below was the breakdown:
 
