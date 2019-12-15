@@ -4,6 +4,7 @@ import pandas as pd
 #%%
 student_data_to_load = "Resources/students_complete.csv"
 
+
 student_data_df = pd.read_csv(student_data_to_load)
 student_data_df.head()
 
