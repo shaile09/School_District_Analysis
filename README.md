@@ -71,6 +71,7 @@ Removing the ninth grade data for the math and reading scores affected the prefo
 When looking at the math and reading scores by grade, we can see clearly that the 9th grade was removed from Thomas high school. 
 
 The table below is for reading - Thomas High School 9th grade data has been removed 
+
 |                       | 9th  | 10th | 11th | 12th |
 |-----------------------|------|------|------|------|
 | Bailey High School    | 81.3 | 80.9 | 80.9 | 80.9 |
@@ -85,10 +86,18 @@ The table below is for reading - Thomas High School 9th grade data has been remo
 | Pena High School      | 83.8 | 83.6 | 84.3 | 84.6 |
 | Rodriguez High School | 81.0 | 80.6 | 80.9 | 80.4 |
 | Shelton High School   | 84.1 | 83.4 | 84.4 | 82.8 |
-| Thomas High School    | nan  | 84.3 | 83.6 | 83.8 | 
+| Thomas High School    | nan  | 84.3 | 83.6 | 83.8 |
 | Wilson High School    | 83.9 | 84.0 | 83.8 | 84.3 |
 | Wright High School    | 83.8 | 83.8 | 84.2 | 84.1 |
 
 Spending range per student remained the same $630-644, since we are using the same number of students, we wouldn't expect this to change 
 
 The average spending per student did not change since we are not using the scores for this calculation. Instead, we created bins and used the capita to calculate the average spending. Below was the reslut:
+
+|                               | Average Math Score | Average Reading Score | % Passing Math | % Passing Reading | % Overall Passing |
+|-------------------------------|--------------------|-----------------------|----------------|-------------------|-------------------|
+| Spending Ranges (Per Student) |                    |                       |                |                   |                   |
+| <$584                         | 83.5               | 83.9                  | 93             | 97                | 95                |
+| $585-629                      | 81.9               | 83.2                  | 87             | 93                | 90                |
+| $630-644                      | 78.5               | 81.6                  | 67             | 77                | 72                |
+| $645-675                      | 77.0               | 81.0                  | 66             | 81                | 74                |
