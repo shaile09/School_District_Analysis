@@ -12,7 +12,7 @@ In the district summary, see that the average math score decreased by 0.1 while 
 -	The percent passing for math and reading also decreased by 1 %.
 -	The percent overall passing decreased by 1%
  
-Out of the 15 schools that were part of this analysis and 39, 170 students, below was the breakdown:
+Out of the 15 schools that were part of this analysis, 39, 170 students and the budget was $24,649,428, below was the breakdown:
 
 Total Schools: 15
 Total Students: 39170
@@ -58,3 +58,6 @@ Bottom 5 Percent (Overall Passing) Data with removed 9th graders scores for math
 | Figueroa High School  | District    | 2949           | $1,884,411.00       | $639.00            | 76.711767          | 81.158020             | 65.988471      | 80.739234         | 73.363852         |
 | Huang High School     | District    | 2917           | $1,910,635.00       | $655.00            | 76.629414          | 81.182722             | 65.683922      | 81.316421         | 73.500171         |
 | Johnson High School   | District    | 4761           | $3,094,650.00       | $650.00            | 77.072464          | 80.966394             | 66.057551      | 81.222432         | 73.639992         |
+
+# How does removing the ninth graders’ math and reading scores affect Thomas High School’s performance, relative to the other schools?
+Removing the ninth grade data for the math and reading scores affected the preformace data of the Thomas High School. However the other schools around Thomas High School were affected in terms of preformace when comparing the 15 schools, but the overall passing percentage was not affected. Below are a few highlights:
