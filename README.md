@@ -1,11 +1,18 @@
 # School_District_Analysis
-This is an analysis of the school data
-Module 4 and Challenge
-In this module, we used Jupyter Notebook and the Pandas library analysis of school district that contained two csv files. In this analysis, we merged datasets for further analysis of the school and student data. With the analysis, we provide district and school summary, top 5 and bottom 5 preforming schools, average math and reading scores received by students in each grade level, school performance based on spending per student, size of the school and type of school. 
-In this challenge, the grades of the ninth graders at Thomas High School were compromised. We decided the best approach of the analysis was to remove the ninth- grade math and reading scores from Thomas High school, but keep all other data associated with the nine- grade students and Thomas High School. 
-Below is a detailed analysis complete data set of the In this analysis:
 
-1)	A high-level snapshot of the district's key metrics, presented in a table format
+# Module 4 and Challenge
+
+In this module, we used Jupyter Notebook and the Pandas library analysis of school district that contained two csv files. In this analysis, we merged datasets for further analysis of the school and student data. With the analysis, we provide district and school summary, top 5 and bottom 5 preforming schools, average math and reading scores received by students in each grade level, school performance based on spending per student, size of the school and type of school. 
+
+In this challenge, the grades of the ninth graders at Thomas High School were compromised. We decided the best approach of the analysis was to remove the ninth- grade math and reading scores from Thomas High school, but keep all other data associated with the nine- grade students and Thomas High School. 
+
+# District Summary (How was the district summary affected?)
+
+In the district summary, see that the average math score decreased by 0.1 while the average reading score stayed the same. Note, since we did not remove any student and school data, the total number of schools and students remained the same. 
+-	The percent passing for math and reading also decreased by 1 %.
+-	The percent overall passing decreased by 1%
+
+# A high-level snapshot of the district's key metrics, presented in a table format
  
 Out of the 15 schools that were part of this analysis and 39, 170 students, below was the breakdown:
 
@@ -27,7 +34,7 @@ Average Reading Score: 81.9
 % Passing Reading: 85 %
 % Overall Passing: 79 %
 
-#District Summary 
+# School Summary 
 How was the district summary affected? 
 
 | School Type           | Total Students | Total School Budget | Per Student Budget | Average Math Score | Average Reading Score | % Passing Math | % Passing Reading | % Overall Passing |           |
