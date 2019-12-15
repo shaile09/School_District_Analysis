@@ -101,3 +101,51 @@ The average spending per student did not change since we are not using the score
 | $585-629                      | 81.9               | 83.2                  | 87             | 93                | 90                |
 | $630-644                      | 78.5               | 81.6                  | 67             | 77                | 72                |
 | $645-675                      | 77.0               | 81.0                  | 66             | 81                | 74                |
+
+Scores by School Size
+Thomas High School is considered a medium school with a student size between (1000-2000). Because we removed the 9th graders of thmas high school, we see a difference in the overall passing by school size. 
+
+- The overall passing decreased from 95% to 90%. 
+- The math percent passing decreased from 94% to 88%.
+- The reading percent passing decreased from 97% to 91%
+
+
+Size summary with all data
+
+|                    | Average Math Score | Average Reading Score | % Passing Math | % Passing Reading | % Overall Passing |
+|--------------------|--------------------|-----------------------|----------------|-------------------|-------------------|
+| School Size        |                    |                       |                |                   |                   |
+| Small (<1000)      | 83.8               | 83.9                  | 94             | 96                | 95                |
+| Medium (1000-2000) | 83.4               | 83.9                  | 94             | 97                | 95                |
+| Large (2000-5000)  | 77.7               | 81.3                  | 70             | 83                | 76                |
+
+Size summary without 9th grade and Thomas HS data
+
+|                    | Average Math Score | Average Reading Score | % Passing Math | % Passing Reading | % Overall Passing |
+|--------------------|--------------------|-----------------------|----------------|-------------------|-------------------|
+| School Size        |                    |                       |                |                   |                   |
+| Small (<1000)      | 83.8               | 83.9                  | 94             | 96                | 95                |
+| Medium (1000-2000) | 83.4               | 83.9                  | 88             | 91                | 90                |
+| Large (2000-5000)  | 77.7               | 81.3                  | 70             | 83                | 76                |
+
+Scores by School Type
+
+Thomas High School is a Charter school. Similar to size, the % overall decreased in charter schools by 3%. In addition, the reading and math scores reduced. 
+- Math scores by charter decreased from 94% to 90%
+- Reading scores by charter dereased from 95% to 92%
+
+School Type Summary with all data
+
+|             | Average Math Score | Average Reading Score | % Passing Math | % Passing Reading | % Overall Passing |
+|-------------|--------------------|-----------------------|----------------|-------------------|-------------------|
+| School Type |                    |                       |                |                   |                   |
+| Charter     | 83.5               | 83.9                  | 94             | 97                | 95                |
+| District    | 77.0               | 81.0                  | 67             | 81                | 74                |
+
+School Type Summary with 9th grade and Thomas HS data removed 
+
+|             | Average Math Score | Average Reading Score | % Passing Math | % Passing Reading | % Overall Passing |
+|-------------|--------------------|-----------------------|----------------|-------------------|-------------------|
+| School Type |                    |                       |                |                   |                   |
+| Charter     | 83.5               | 83.9                  | 90             | 93                | 92                |
+| District    | 77.0               | 81.0                  | 67             | 81                | 74                |
