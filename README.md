@@ -61,3 +61,34 @@ Bottom 5 Percent (Overall Passing) Data with removed 9th graders scores for math
 
 # How does removing the ninth graders’ math and reading scores affect Thomas High School’s performance, relative to the other schools?
 Removing the ninth grade data for the math and reading scores affected the preformace data of the Thomas High School. However the other schools around Thomas High School were affected in terms of preformace when comparing the 15 schools, but the overall passing percentage was not affected. Below are a few highlights:
+- In the top school output, Thomas high school scored in the top 5 and was listed as number 2. When we removed the 9th grade data, Pena High School took the second place.
+- The average math score of Thomas High School slightly decreased from 83.41% to 83.35%
+- The average reading score of Thomad High School slightly increased from 83.89% to 83.84%
+- The other 14 schools were not affected
+
+# How does removing the ninth-grade scores affect the Math and Reading Scores by Grade, Scores by School Spending, Scores by School Size, and Scores by School Type? 
+
+When looking at the math and reading scores by grade, we can see clearly that the 9th grade was removed from Thomas high school. 
+
+The table below is for reading - Thomas High School 9th grade data has been removed 
+|                       | 9th  | 10th | 11th | 12th |
+|-----------------------|------|------|------|------|
+| Bailey High School    | 81.3 | 80.9 | 80.9 | 80.9 |
+| Cabrera High School   | 83.7 | 84.3 | 83.8 | 84.3 |
+| Figueroa High School  | 81.2 | 81.4 | 80.6 | 81.4 |
+| Ford High School      | 80.6 | 81.3 | 80.4 | 80.7 |
+| Griffin High School   | 83.4 | 83.7 | 84.3 | 84.0 |
+| Hernandez High School | 80.9 | 80.7 | 81.4 | 80.9 |
+| Holden High School    | 83.7 | 83.3 | 83.8 | 84.7 |
+| Huang High School     | 81.3 | 81.5 | 81.4 | 80.3 |
+| Johnson High School   | 81.3 | 80.8 | 80.6 | 81.2 |
+| Pena High School      | 83.8 | 83.6 | 84.3 | 84.6 |
+| Rodriguez High School | 81.0 | 80.6 | 80.9 | 80.4 |
+| Shelton High School   | 84.1 | 83.4 | 84.4 | 82.8 |
+| Thomas High School    | nan  | 84.3 | 83.6 | 83.8 | 
+| Wilson High School    | 83.9 | 84.0 | 83.8 | 84.3 |
+| Wright High School    | 83.8 | 83.8 | 84.2 | 84.1 |
+
+Spending range per student remained the same $630-644, since we are using the same number of students, we wouldn't expect this to change 
+
+The average spending per student did not change since we are not using the scores for this calculation. Instead, we created bins and used the capita to calculate the average spending. Below was the reslut:
