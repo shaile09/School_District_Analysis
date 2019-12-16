@@ -21,13 +21,10 @@ Out of the 15 schools that were part of this analysis, 39, 170 students and the 
 
 As part of this challenge, we removed the reading and math scores of ninth graders in Thomas High School. Below was the breakdown:
 
-Total Schools: 15
-Total Students: 39170
-Average Math Score: 78.9
-Average Reading Score: 81.9
-% Passing Math: 74 %
-% Passing Reading: 85 %
-% Overall Passing: 79 %
+
+|   | Total Schools | Total Students | Total Budget   | Average Math Score | Average Reading Score | % Passing Math | % Passing Reading | % Overall Passing |
+|---|---------------|----------------|----------------|--------------------|-----------------------|----------------|-------------------|-------------------|
+| 0 | 15            | 39,170         | $24,649,428.00 | 78.9               | 81.9                  | 74             | 85                | 79                |
 
 # School Summary (How was the district summary affected?)
 
